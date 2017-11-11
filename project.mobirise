@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-26_0234",
-    "currentPage": "page4.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
       ]
     },
     "versionFirst": "4.3.5",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "4.3.5"
   },
   "pages": {
@@ -475,7 +475,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Site1",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -911,7 +911,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Site2",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1355,7 +1355,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Site3",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1786,7 +1786,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Other sites",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2257,7 +2257,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "Information",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2703,6 +2703,14 @@
           "_params": {}
         }
       ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "googlef61ffe42fb3ab9c3.html",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
